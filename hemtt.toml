@@ -1,0 +1,10 @@
+name = "VET_Debug"
+modname = "vet_debug"
+prefix = "vet"
+author = "veteran29"
+version = "1.1.0"
+files = ["mod.cpp"]
+
+keyname = "vet_debug"
+signame = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
+reuse_private_key = true
